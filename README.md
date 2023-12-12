@@ -10,7 +10,7 @@
 ---
 
 <img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
-<p><em>Software Engineer at <a href="https://www.cars24.com/">CARS24</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Ex-Software Engineer at <a href="https://www.cars24.com/">CARS24</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [
 ![Site keerthan.netlify.app](https://img.shields.io/badge/do%20visit-keerthan.netlify.app-informational)](https://keerthan.netlify.app)[![GitHub Zoro8048](https://img.shields.io/github/followers/Zoro8048?label=follow&style=social)](https://github.com/Zoro8048)[![Linkedin: keerthan-nandigama-b3b19b175](https://img.shields.io/badge/-keerthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/keerthan-nandigama-b3b19b175/)

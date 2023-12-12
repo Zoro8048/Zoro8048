@@ -13,7 +13,7 @@
 <p><em>Software Engineer at <a href="https://www.cars24.com/">CARS24</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [
-![Site keerthan.netlify.app](https://img.shields.io/badge/do%20visit-keerthan.netlify.app-informational)](https://keerthan.netlify.app)[![GitHub Zoro8048](https://img.shields.io/github/followers/Zoro8048?label=follow&style=social)](https://github.com/Zoro8048)[![Linkedin: keerthan-nandigama-b3b19b175](https://img.shields.io/badge/-revanth--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/keerthan-nandigama-b3b19b175/)
+![Site keerthan.netlify.app](https://img.shields.io/badge/do%20visit-keerthan.netlify.app-informational)](https://keerthan.netlify.app)[![GitHub Zoro8048](https://img.shields.io/github/followers/Zoro8048?label=follow&style=social)](https://github.com/Zoro8048)[![Linkedin: keerthan-nandigama-b3b19b175](https://img.shields.io/badge/-keerthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/keerthan-nandigama-b3b19b175/)
 
 
 

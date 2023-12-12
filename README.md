@@ -22,7 +22,7 @@
 
 
 ```javascript
-const revanth = {
+const keerthan = {
   code: [Python, Javascript, C, C++, Typescript, Java],
   tools: [React, Redux, React Native, Node, Ruby on Rails, Git],
   otherInterests: ["ML", "AI", "Neural Networks"],
